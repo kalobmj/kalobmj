@@ -1,8 +1,8 @@
+<img src='https://media1.tenor.com/m/uc4qfoZES3cAAAAd/kirby-shiny-eyes.gif' width='100' height='97' alt='kirby-icon'></h3>
+
 <h3 style="font-size:500px">hello 😄<br/>
 
 </br>
-
-<img src='https://media1.tenor.com/m/uc4qfoZES3cAAAAd/kirby-shiny-eyes.gif' width='100' height='97' alt='kirby-icon'></h3>
 
 <p>- Currently learning web dev and aspiring to be a Software Engineer 💻</p>
 <p>- I'm interested in anything tech, and love to learn making music in my free time 🎵🎹:</p>
