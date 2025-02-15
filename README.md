@@ -2,12 +2,12 @@
 <img src='https://media1.tenor.com/m/uc4qfoZES3cAAAAd/kirby-shiny-eyes.gif' width='125' height='121' alt='kirby-icon'></h3>
 </p>
 
-<h3 style="font-size:500px">hello 😄<br/>
 
-</br>
+<h3 style="font-size:500px" align='center'>hello 😄<br/>
+
 
 <p>- Currently learning web dev and aspiring to be a Software Engineer 💻</p>
-<p>- I'm interested in anything tech, and love to learn making music in my free time 🎵🎹:</p>
+<p>- I'm interested in anything tech, and love to learn making music in my free time 🎵🎹</p>
 
 <hr></hr>
 
