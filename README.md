@@ -12,10 +12,16 @@
 
 <hr></hr>
 
-### What im currently learning
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nodejs,mongodb&perline=5)](https://skillicons.dev)
+### What im currently learning 📘
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,vite,nodejs,mongodb&perline=5)](https://skillicons.dev)
 
-### Things im excited and intereseted about
-[![My Skills](https://skillicons.dev/icons?i=svelte,vue,tailwind,c,cpp,go,java,py,kotlin,php,wordpress,ruby,neovim,linux,ubuntu&perline=8)](https://skillicons.dev)
+### Things im excited and intereseted about 🤔
+[![My Skills](https://skillicons.dev/icons?i=svelte,vue,tailwind,c,cpp,go,java,py,kotlin,php,wordpress,ruby,rails,neovim,linux,ubuntu,lua,sqlite,rust&perline=8)](https://skillicons.dev)
+
+<!---
+  ...
+  here will go, whenever I get deep into projects and get really decent at a language, The place where I have products I created using colaboration with others, and the languages I used to work with them
+  ...
+--->
 
 <img src='https://i.pinimg.com/736x/d3/1e/41/d31e415af38dffa7537d2ff23ea346e2.jpg' width='300' height='399' alt='kirby-art'>
