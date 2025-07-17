@@ -13,10 +13,10 @@
 <hr></hr>
 
 ### What im currently learning 📘
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,vite,nodejs,mongodb&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,vite,nodejs,sqlite&perline=5)](https://skillicons.dev)
 
 ### Things im excited and intereseted about 🤔
-[![My Skills](https://skillicons.dev/icons?i=svelte,vue,c,cpp,go,java,py,kotlin,php,wordpress,ruby,rails,neovim,linux,ubuntu,lua,sqlite,rust&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,vue,c,cpp,go,java,py,kotlin,php,wordpress,ruby,rails,neovim,linux,ubuntu,lua,rust&perline=8)](https://skillicons.dev)
 
 <!---
   ...
